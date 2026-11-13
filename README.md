@@ -20,7 +20,7 @@
 | **Curso** | Técnico em Desenvolvimento de Sistemas |
 | **Instituição** | SENAI Jandira |
 | **Data de Início** | 10/08/2026 |
-| **Data de Entrega** | NÃO DEFINIDA |
+| **Data de Entrega** | 04/12/2026 |
 
 ---
 
