@@ -74,15 +74,17 @@ O projeto **EcoWayer** utiliza diferentes tecnologias para o desenvolvimento das
 
 ---
 
+
 ## 5. Equipe de Desenvolvimento
 
 | Integrante | Responsabilidade |
 | :--- | :--- |
-| [Jean Costa](https://github.com/Jean090504) | Desenvolvedor Back-End / Mobile / Gestor de Projetos |
+| [Jean Costa](https://www.linkedin.com/in/jeancostadev/) | Desenvolvedor Back-End / Mobile / Gestor de Projetos |
 | [Maxwillian Santana](https://www.linkedin.com/in/maxw06/) | Desenvolvedor Back-End / Mobile |
 | [Fernanda Cardoso](https://www.linkedin.com/in/fernanda-mota-38435b37a/) | Administradora de Banco de Dados |
 | [Aryely Hevylyn](https://www.linkedin.com/in/aryely-hevylyn-ab9a3039a/) | Desenvolvedora Front-End / Analista de Requisitos |
 | [Gustavo Vitor](https://www.linkedin.com/in/gustavo-souza08/) | Administrador de Banco de Dados |
+
 
 ---
 
